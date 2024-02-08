@@ -16,7 +16,7 @@ Inspired from:
 Summary of app functional requirements:
 - Each Book has id, title, description, availability status.
 - We can create, retrieve, update, delete Books.
-- There is a Search bar for searching Books by title.
+- There is a Search bar for searching Books by title
 
 
 ## Development
